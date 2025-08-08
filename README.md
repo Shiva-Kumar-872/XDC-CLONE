@@ -1,5 +1,11 @@
 # 🌅 XDC Network Clone — Cinematic Web Experience
-Watch Live video of the app in → : linkedin.com/in/shiva-kumar-7053a429b
+
+
+Watch Live video of the app in → : [linkedin.com/in/shiva-kumar-7053a429b]
+
+
+
+
 A visually immersive, animation-rich clone of the XDC Network website, built with precision, modularity, and narrative-driven UI elements. This project showcases how modern web animation can elevate storytelling, using scroll-triggered reveals, symbolic motifs, and viewport-aware transitions.
 
 ---
