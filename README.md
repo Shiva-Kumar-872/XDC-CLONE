@@ -1,7 +1,7 @@
 # 🌅 XDC Network Clone — Cinematic Web Experience
 
 
-Watch Live video of the app in : [ →       linkedin.com/in/shiva-kumar-7053a429b        ←]
+## Watch Live video of the app in : #[ →       linkedin.com/in/shiva-kumar-7053a429b        ←]
 
 
 
