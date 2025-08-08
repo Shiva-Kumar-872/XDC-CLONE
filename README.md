@@ -1,5 +1,5 @@
 # 🌅 XDC Network Clone — Cinematic Web Experience
-
+Watch Live video of the app in → : linkedin.com/in/shiva-kumar-7053a429b
 A visually immersive, animation-rich clone of the XDC Network website, built with precision, modularity, and narrative-driven UI elements. This project showcases how modern web animation can elevate storytelling, using scroll-triggered reveals, symbolic motifs, and viewport-aware transitions.
 
 ---
@@ -65,3 +65,7 @@ This site isn't just animated — it's **cinematic**. Every motion is intentiona
 ## 📁 Folder Structure
 src/ ├── components/ │ ├── HeroSectionButton.jsx │ ├── XDCNetworkSection.jsx │ ├── WHATSHappening.jsx │ ├── SECTIONNINE.jsx │ └── ...other components ├── HomePage.jsx ├── index.js └── index.css
 
+ Author: Shiva Kumar
+📍 Hyderabad, India
+🌐 GitHub: Shiva-Kumar-872
+💬 LinkedIn: [linkedin.com/in/shiva-kumar-7053a429b] ✉️ Email: shivak24303@example.com
